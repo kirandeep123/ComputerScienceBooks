@@ -15,3 +15,9 @@ http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf ( solut
 
 https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf
 
+**Individual Explanation Of Algorithms 
+
+1. Dijkstra's Algorithm 
+
+http://www.ifp.illinois.edu/~angelia/ge330fall09_dijkstra_l18.pdf
+
